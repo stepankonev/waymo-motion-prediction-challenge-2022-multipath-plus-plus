@@ -1,0 +1,9 @@
+- renderer_name: MultiPathPPRenderer
+  renderer_config:
+    normalize: False
+    segment_filtering:
+      policy: "within_radius"
+      segments_filtering_radius: 150
+    agent_filtering:
+      policy: "interesting"
+    drop_segments: 4
