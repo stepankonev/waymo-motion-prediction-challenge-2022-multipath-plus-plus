@@ -8,6 +8,7 @@
 - 🏎️[**CVPR2022 Workshop on Autonomous Driving website**](https://cvpr2022.wad.vision)
 - 📜[**Technical report**](https://arxiv.org/abs/2206.10041)   
 - 🥉[**Waymo Motion Prediction Challenge Website**](https://waymo.com/open/challenges/2022/motion-prediction/)
+- [❗Refactored code for our prize-winnig solution for Waymo Motion Prediction Challenge 2021](https://github.com/stepankonev/MotionCNN-Waymo-Open-Motion-Dataset)
 
 ## Team behind this solution:
 Stepan Konev 
