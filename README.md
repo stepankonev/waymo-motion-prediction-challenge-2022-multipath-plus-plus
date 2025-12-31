@@ -1,4 +1,9 @@
+
+
 # Waymo motion prediction challenge 2022: 3rd place solution (May, 26)
+
+> **Highlight:** Check out our new project **StandardE2E** — a framework for unified end-to-end autonomous driving datasets processing:
+> https://github.com/stepankonev/StandardE2E
 ## Our implementation of [MultiPath++](https://arxiv.org/abs/2111.14973)
 
 ![](docs/architecture.png)
